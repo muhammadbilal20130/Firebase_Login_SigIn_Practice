@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "762828457114",
+    "project_id": "emaillogintesting",
+    "storage_bucket": "emaillogintesting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762828457114:android:7ce9ed5ea58a2fa1b3cb23",
+        "android_client_info": {
+          "package_name": "com.example.emaillogintesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762828457114-5go0vdu84jba37rfkk40cl3nn66b8go1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApfDz1xpx2xYPwSHglGTc6ZXYaedTbkmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762828457114-5go0vdu84jba37rfkk40cl3nn66b8go1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
