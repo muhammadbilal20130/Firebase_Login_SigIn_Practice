@@ -13,6 +13,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.EmailLoginTesting">
         <activity
+            android:name=".WokingActivity"
+            android:exported="false" />
+        <activity
             android:name=".RegisterActivity"
             android:exported="false" />
         <activity

@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Cooding/Android Apps/emailLoginTesting/app/src/main/res/layout/activity_main.xml" value="0.1734375" />
+        <entry key="..\:/Cooding/Android Apps/emailLoginTesting/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Cooding/Android Apps/emailLoginTesting/app/src/main/res/layout/activity_register.xml" value="0.21197916666666666" />
+        <entry key="..\:/Cooding/Android Apps/emailLoginTesting/app/src/main/res/layout/activity_woking.xml" value="0.21197916666666666" />
       </map>
     </option>
   </component>
