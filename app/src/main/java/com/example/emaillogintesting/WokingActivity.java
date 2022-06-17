@@ -27,5 +27,7 @@ public class WokingActivity extends AppCompatActivity {
                 startActivity(new Intent(WokingActivity.this,MainActivity.class));
             }
         });
+
+        ///
     }
 }
